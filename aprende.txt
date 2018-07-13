@@ -1,1 +1,9 @@
 position:fixed;
+ARCHIVO GIT
+windowsboton+r
+cd c:
+git status
+git estatus
+git add .(tal como esta)
+git config --global user.name "NOMBRE"
+git config --global user.name Mauricio444@gmail.com
